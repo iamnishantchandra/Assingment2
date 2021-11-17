@@ -103,3 +103,10 @@ li{
     color:rgb(1, 1, 37);
     text-decoration:solid;
 }
+p{
+    color:rgb(33, 2, 75);
+    text-decoration:  none;
+}
+.footer{
+    border:solid;
+}
