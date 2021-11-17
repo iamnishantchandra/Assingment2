@@ -33,7 +33,7 @@
       ); // This is an asynchronous operation, so we pass in Mocha's `done` callback.
     });
 
-    // Use Mocha's standard `after` function to clean up our Quixote test frame after all the tests are done.
+    // Use  Mocha's standard `after` function to clean up our Quixote test frame after all the tests are done.
     // We create and remove the test frame only once for the entire suite because it's a relatively expensive
     // operation.
     after(function () {
